@@ -5,6 +5,8 @@ public class HelloWorld {
 
 
 		System.out.println("Hello World, This is from Eclipse to test Git");
+		
+		System.out.println("Hello, This is from Git-Thankyou");
 
 	}
 
