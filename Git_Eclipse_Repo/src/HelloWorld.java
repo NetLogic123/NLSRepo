@@ -8,7 +8,7 @@ public class HelloWorld {
 		
 		System.out.println("Hello, This is from Git-Thankyou");
 		
-		System.out.println("Great I got the message");
+		System.out.println("Great I got the message1");
 
 	}
 
