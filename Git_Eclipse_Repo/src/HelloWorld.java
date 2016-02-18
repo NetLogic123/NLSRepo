@@ -10,7 +10,7 @@ public class HelloWorld {
 		
 		System.out.println("Great I got the message12345");
 		
-	System.out.println("Hello Folks.....................");
+	System.out.println("Hello Folks.....*********................");
 
 	}
 
