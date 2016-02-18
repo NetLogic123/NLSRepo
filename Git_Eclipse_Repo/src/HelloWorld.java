@@ -12,7 +12,7 @@ public class HelloWorld {
 		
 	System.out.println("Hello Folks.....*********................");
 	
-	System.out.println("Change from New Repo");
+	System.out.println("Change from NetLogic Local Repo");
 
 	}
 
